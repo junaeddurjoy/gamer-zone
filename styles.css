@@ -1,0 +1,78 @@
+.gamer{
+    height: 2rem;
+    width: 3.3rem;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-options{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 20px;
+    font-size: 1rem;
+    padding-top: 0.6rem;
+}
+.gamer-text{
+    padding-left: 5rem;
+    font-size: 2rem;
+    font-weight: 700;
+}
+#gamer-text{
+    color: rgb(234, 93, 116);
+}
+.follow-us-on{
+    border: 2px solid black;
+    height: 1.1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 3rem;
+    padding-left: 0.3rem;
+    border-radius: 5px;
+    background-color: rgb(210, 210, 210);
+}
+.banner{
+    padding-left: 5rem;
+    padding-top: 5rem;
+    background-color: rgb(240, 218, 222);
+}
+.banner-title{
+    font-size: 2rem;
+}
+.goat{
+    font-size: 4rem;
+    color: blueviolet;
+}
+#button1{
+    color: white;
+    font-weight: 700;
+    padding: 13px;
+    border: 2px solid skyblue;
+    background-color: skyblue;
+    border-radius: 30px;
+}
+#button2{
+    color: white;
+    font-weight: 700;
+    padding: 13px;
+    border: 2px solid rgb(235, 135, 210);
+    background-color: rgb(235, 135, 210);
+    border-radius: 30px;
+}
+.img1{
+    height: 40rem;
+    width: 40rem;
+    padding-right: 10rem;
+}
+#bannerlist{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+#banner1{
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
