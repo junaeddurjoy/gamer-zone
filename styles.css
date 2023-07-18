@@ -338,6 +338,7 @@ footer{
         padding-left: 3rem;
     }
 }
+/* tablet */
 @media screen and (min-width:576px) and (max-width:992px){
     .gamer-text{
         padding-left: 15rem;
@@ -401,8 +402,8 @@ footer{
     .image66{
         height: 10rem;
         position: absolute;
-        top: 18rem;
-        right: 15rem;
+        top: 16rem;
+        right: 28rem;
     }
     .type ul{
         display: grid;
